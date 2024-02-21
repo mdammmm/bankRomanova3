@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="osnovAddress">Москва, ул. Вавилова, д.7</string>
+    <string name="Vid1">Банкомат</string>
+    <string name="Vid2">Отделение</string>
+    <string name="time1">Часы работы 00:00-00:00</string>
+    <string name="time2">Часы работы 09:00-20:00</string>
+    <string name="closeOrOpen">Работает</string>
+
+
+    <string name="argentina">Аргетинское песо</string>
+    <string name="australia">Австралийский доллар</string>
+    <string name="canada">Канадский доллар</string>
+    <string name="chehia">Чешская крона</string>
+    <string name="japan">Японская иена</string>
+    <string name="korea">Южнокорейская вона</string>
+    <string name="kazahastan">Казахстанский тенге</string>
+    <string name="ssha">Американский доллар</string>
+
+    <string name="usd1">ARS</string>
+    <string name="usd2">AU</string>
+    <string name="usd3">CAD</string>
+    <string name="usd4">CZK</string>
+    <string name="usd5">JPY</string>
+    <string name="usd6">KRW</string>
+    <string name="usd7">KZT</string>
+    <string name="usd8">USD</string>
+
+    <string name="pok1">0.11</string>
+    <string name="pok2">58.45</string>
+    <string name="pok3">64.76</string>
+    <string name="pok4">3.64</string>
+    <string name="pok5">0.65</string>
+    <string name="pok6">0.07</string>
+    <string name="pok7">0.20</string>
+    <string name="pok8">92.95</string>
+
+    <string name="pro1">0.11</string>
+    <string name="pro2">64.30</string>
+    <string name="pro3">71.96</string>
+    <string name="pro4">3.99</string>
+    <string name="pro5">0.64</string>
+    <string name="pro6">0.07</string>
+    <string name="pro7">0.21</string>
+    <string name="pro8">93.15</string>
+
+</resources>
